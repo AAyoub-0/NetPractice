@@ -6,7 +6,7 @@ The goal of this project is to configure configure small-scale networks and to u
 
 To do so we needed to complete 10 levels of small-scale networks that looks like this :
 
-![image](pic1.png)
+![image](assets/pic1.png)
 
 Then we need to download the json format for the correction.
 
