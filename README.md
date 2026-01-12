@@ -124,6 +124,12 @@ Private IP addresses are reserved for **internal networks** and are **not routab
 
 These addresses are commonly used in home, corporate, and lab networks and access the Internet through **NAT (Network Address Translation)**.
 
+#### Other private Addresses :
+
+  - **127.0.0.0** - 127.255.255.255, reserved for loopback and internal testing
+  - **224.0.0.0** - 239.255.255.255, reserved for multicast
+  - **240.0.0.0** - 239.255.255.255, reserved for experimental, used for research
+
 ## Switches and Routers
 
 A **switch** is a network device used to connect multiple devices within the same **local area network (LAN)**. It operates mainly at **Layer 2 (Data Link)** of the OSI model and forwards data using **MAC addresses**. Switches reduce network collisions and improve performance by sending data only to the intended destination.
