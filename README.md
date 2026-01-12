@@ -128,7 +128,7 @@ These addresses are commonly used in home, corporate, and lab networks and acces
 
   - **127.0.0.0** - 127.255.255.255, reserved for loopback and internal testing
   - **224.0.0.0** - 239.255.255.255, reserved for multicast
-  - **240.0.0.0** - 239.255.255.255, reserved for experimental, used for research
+  - **240.0.0.0** - 255.255.255.255, reserved for experimental, used for research
 
 ## Switches and Routers
 
